@@ -1,0 +1,252 @@
+=={{Dil|Türkçe}}==
+[[Dosya:Kirgisien_pferdewagen.jpg|thumb|Kırgızistan'da bir atlı araba]]
+==={{Söztürü|Ad|Türkçe}}===
+{{çekim|arab|a|-}}
+{{tamlama|arab|a|-}}
+{{Vikipedi}}
+{{Anlamlar}}
+:[1] {{t|karayolu ulaşımı|taşıt}} [[tekerlek|tekerlekli]], [[motorlu]] veya [[motorsuz]] her [[türlü]] [[kara]] [[taşıt|taşıtı]]
+:[2] {{t|taşıt}} [[otomobil]]
+:[3] {{t|taşıt}} genelde bir hayvan tarafından çekilen bir veya daha fazla [[dingil|dingile]] sahip [[yük]] [[taşıma]] aracı
+
+{{Söyleniş}}
+:{{IPA|aɾaˈba}}, {{çoğul}} {{IPA|aɾabaˈlaɾ}}
+:{{Ses|tr_tr_araba.ogg|araba}}
+
+{{Heceleme}}
+:{{heceleme|a|a|ra|ba}}
+
+{{Çeviriler}}
+{{Üst}}
+*{{af}}: [2] {{çeviri|af|motor}}; [3] {{çeviri|af|wa}}
+*{{de}}: [1] {{çeviri|de|Karre|f}}, {{çeviri|de|Karren|m}}; [2] {{çeviri|de|Auto|n}}, {{çeviri|de|Pkw|m}}, {{çeviri|de|Wagen|m}}, {{çeviri|de|Automobil|n}}; [3] {{çeviri|de|Wagen|m}}, {{çeviri|de|Anhänger|m}}
+*{{am}}: [2] {{çeviri|am|መኪና}}
+*{{an}}: [2] {{çeviri|an|auto}}
+*{{ar}}: [2] {{çeviri|ar|سيارة|alt=سَيّارَةٌ|tr=sayyaːra|f}}; [3] {{çeviri|ar|عربة|alt=عَرَبَةٌ|tr=ʕaraba(tun)|f}}
+*{{sq}}: [2] {{çeviri|sq|makinë}}; [3] {{çeviri|sq|karro}}
+*{{ast}}: [2] {{çeviri|ast|automóbil}}
+*{{ay}}: [2] {{çeviri|ay|karru}}; [3] {{çeviri|ay|carro}}
+*{{eu}}: [2] {{çeviri|eu|automobil}}; [3] {{çeviri|eu|orga}}
+*{{bs}}: [2] {{çeviri|bs|automobil}}, {{çeviri|bs|auto|n}}, {{çeviri|bs|kola}} {{n}}, ''çoğul''
+*{{br}}: [2] {{çeviri|br|karr}}, {{çeviri|br|karr-tan}}, {{çeviri|br|oto}}, {{çeviri|br|gwetur}}; [3] {{çeviri|br|karr}}
+*{{bg}}: [2] {{çeviri|bg|автомобил}}, {{çeviri|bg|кола}}
+*{{ce}}: [2] {{çeviri|ce|машен}}
+*{{cs}}: [2] {{çeviri|cs|auto}}, {{çeviri|cs|automobil|m}}
+*{{zh}}: [2] {{çeviri|zh|汽车}}, {{çeviri|zh|小汽车}} (xiǎo qìchē)
+*{{da}}: [2] {{çeviri|da|bil}}, {{çeviri|da|automobil}} [3] {{çeviri|da|stridsvogn}}
+*{{id}}: [2] {{çeviri|id|otomobil}}
+*{{eo}}: [2] {{çeviri|eo|aŭtomobilo}}, {{çeviri|eo|veturilo}}, {{çeviri|eo|au˘to}}, {{çeviri|eo|aŭto}}, {{çeviri|eo|aŭtomobilo}}; [3] {{çeviri|eo|ĉaro}}, {{çeviri|eo|veturilo}}
+*{{et}}: [2] {{çeviri|et|auto}}; [3] {{çeviri|et|veovanker}}, {{çeviri|et|kaarik}}
+*{{fo}}: [2] {{çeviri|fo|bilur}}
+*{{fa}}: [2] {{çeviri|fa|خودرو}}; [3] {{çeviri|fa|گاری}}, {{çeviri|fa|ارّابه}}
+*{{fi}}: [1] {{çeviri|fi|kärry}}, {{çeviri|fi|vaunu}}; [2] {{çeviri|fi|auto}}; [3] {{çeviri|fi|kärryt}}, {{çeviri|fi|vaunut}}
+*{{fr}}: [2] {{çeviri|fr|voiture}}, {{çeviri|fr|auto}}, {{çeviri|fr|automobile}}, {{çeviri|fr|bagnole}}; [3] {{çeviri|fr|char}}
+*{{fy}}: [2] {{çeviri|fy|auto}}
+*{{cy}}: [2] {{çeviri|cy|car}}, {{çeviri|cy|modur}}; [3] {{çeviri|cy|cert}}, {{çeviri|cy|cart}}, {{çeviri|cy|trol}}
+*{{gl}}: [2] {{çeviri|gl|automóbil}}, {{çeviri|gl|carro, coche, auto}}; [3] {{çeviri|gl|carro}}
+*{{gn}}: [2] {{çeviri|gn|mba’yru guata}}, {{çeviri|gn|mba’yrumýi}}; [3] {{çeviri|gn|mba’eyru}}, {{çeviri|gn|yvyrajere}}
+*{{gu}}: [2] {{çeviri|gu|મોટરગાડી}}; [3] {{çeviri|gu|ઠેલો}}
+*{{hr}}: [2] {{çeviri|hr|automobil}}
+*{{hi}}: [2] {{çeviri|hi|गाड़ी}}, {{çeviri|hi|कार}}, {{çeviri|hi|मोटर गाड़ी}}; [3] {{çeviri|hi|ठेला}}
+*{{nl}}: [2] {{çeviri|nl|auto}}, {{çeviri|nl|automobiel}}, {{çeviri|nl|wagen}} m; [3] {{çeviri|nl|wagen}}, {{çeviri|nl|kar}}
+*{{he}}: [2] {{çeviri|he|מכונית}}, {{çeviri|he|אוטו}}; [3] {{çeviri|he|עגלה}}
+*{{en}}: [2] {{çeviri|en|car}}, {{çeviri|en|motor car}}, {{çeviri|en|automobile}}; [3] {{çeviri|en|cart}}
+*{{ia}}: [2] {{çeviri|ia|automobile}}, {{çeviri|ia|auto}}
+*{{ga}}: [2] {{çeviri|ga|carr}}, {{çeviri|ga|gluaisteán}}
+*{{gd}}: [2] {{çeviri|gd|càr}}
+*{{es}}: [1] {{çeviri|es|carro}}, {{çeviri|es|coche}}, {{çeviri|es|cacharro}}; [2] {{çeviri|es|automóvil}}, {{çeviri|es|auto}}; [3] {{çeviri|es|carro}}, {{çeviri|es|carreta}}
+*{{sv}}: [1] {{çeviri|sv|kärra}}; [2] {{çeviri|sv|bil}}; [3] {{çeviri|sv|vagn}}
+*{{it}}: [2] {{çeviri|it|automobile}}, {{çeviri|it|macchina}}, {{çeviri|it|autovettura}}, {{çeviri|it|auto}}, {{çeviri|it|automezzo}}, {{çeviri|it|vettura}}; [3] {{çeviri|it|carro}}
+*{{is}}: [2] {{çeviri|is|bíll}}, {{çeviri|is|bifreið}}
+*{{ja}}: [2] {{çeviri|ja|自動車}}, {{çeviri|ja|車}} (くるま, {{}}; [3] {{çeviri|ja|馬車}}
+*{{ca}}: [2] {{çeviri|ca|cotxe}}
+*{{qu}}: [2] {{çeviri|qu|rampa}}; [3] {{çeviri|qu|rampa}}
+{{Orta}}
+*{{rn}}: [2] {{çeviri|rn|umuduga}}
+*{{ko}}: [2] {{çeviri|ko|차}}, {{çeviri|ko|자동차}}
+*{{ku}}: [2] {{çeviri|ku|tirimpêl}}, {{çeviri|ku|erebe}}, {{çeviri|ku|seyare}}, {{çeviri|ku|otomobîl}}
+*{{la}}: [2] {{çeviri|la|autocinetum}}, {{çeviri|la|carrus|m}}, {{çeviri|la|automobilis}}; [3] {{çeviri|la|currus}}, {{çeviri|la|carrus}}, {{çeviri|la|essedum}}
+*{{pl}}: [2] {{çeviri|pl|samochód}}, {{çeviri|pl|auto}}; [3] {{çeviri|pl|wóz}}
+*{{lv}}: [3] {{çeviri|lv|divriči}}
+*{{ln}}: [2] {{çeviri|ln|vatiri}}
+*{{lt}}: [2] {{çeviri|lt|mašina}}, {{çeviri|lt|automobilis}}; [3] {{çeviri|lt|vežimas}}
+*{{lb}}: [2] {{çeviri|lb|Won}}
+*{{mas}}: [2] {{çeviri|mas|emutukaa}}
+*{{hu}}: [2] {{çeviri|hu|személygépkocsi}}, {{çeviri|hu|gépkocsi}}, {{çeviri|hu|kocsi}}, {{çeviri|hu|autó}}, {{çeviri|hu|jármű}}, {{çeviri|hu|személygépjármű}}; [3] {{çeviri|hu|szekér}}, {{çeviri|hu|kocsi}}
+*{{mk}}: [2] {{çeviri|mk|автомобил|tr=avtomobil}}
+*{{mg}}: [2] {{çeviri|mg|fiarakodia}}; [3] {{çeviri|mg|sarety}}
+*{{ms}}: [2] {{çeviri|ms|kereta}}
+*{{mt}}: [2] {{çeviri|mt|karozza awtomatika}}
+*{{mi}}: [2] {{çeviri|mi|motokaa}}
+*{{mr}}: [2] {{çeviri|mr|गाड़ी}}; [3] {{çeviri|mr|हातगाडी}}
+*{{mn}}: [2] {{çeviri|mn|машин|tr=maʂin}}, {{çeviri|mn|автомобиль|tr=avtomobil ʲ}}
+*{{no}}: 
+*:{{nb}}: [1] {{çeviri|nb|kjerre|m}}; [2] {{çeviri|nb|bil|m}}
+*:{{nn}}:
+*{{oc}}: [2] {{çeviri|oc|veitura}}
+*{{pa}}: [2] {{çeviri|pa|ਗੱਡੀ}}; [3] {{çeviri|pa|ਠੇਲ੍ਹਾ}}
+*{{pt}}: [2] {{çeviri|pt|automóvel}}, {{çeviri|pt|carro}}, {{çeviri|pt|auto|m}}
+*{{rm}}: [2] {{çeviri|rm|auto}}
+*{{ro}}: [2] {{çeviri|ro|automobil}}, {{çeviri|ro|maşină}}, {{çeviri|ro|autovehicul}}
+*{{ru}}: [2] {{çeviri|ru|автомобиль|tr=avtomobil ʲ}}, {{çeviri|ru|машина|tr=maʂina|f}}; [3] {{çeviri|ru|телега|tr=telega}}
+*{{rw}}: [2] {{çeviri|rw|imodoka}}
+*{{sm}}: [2] {{çeviri|sm|ta'avale}}
+*{{sa}}: [2] {{çeviri|sa|लोकयानम्}}; [3] {{çeviri|sa|शकटः}}
+*{{sw}}: [2] {{çeviri|sw|gari}}; [3] {{çeviri|sw|mkokoteni}}
+*{{sr}}: [2] {{çeviri|sr|аутомобил|tr=automobil|n}}, {{çeviri|sr|ауто|tr=auto|n}}, {{çeviri|sr|ауто|n}}, {{çeviri|sr|кола|tr=kola|n}}
+*{{scn}}: [2] {{çeviri|scn|machina}}
+*{{sk}}: [2] {{çeviri|sk|automobil}}, {{çeviri|sk|auto}}, {{çeviri|sk|voz|m}}; [3] {{çeviri|sk|voz}}, {{çeviri|sk|povoz}}
+*{{sl}}: [2] {{çeviri|sl|avtomobil}}, {{çeviri|sl|avto|m}}
+*{{su}}: [2] {{çeviri|su|otomotif}}
+*{{tl}}: [2] {{çeviri|tl|áwto}}, {{çeviri|tl|kótse}}, {{çeviri|tl|káro}}, {{çeviri|tl|sasakyán}}
+*{{ta}}: [2] {{çeviri|ta|தானுந்து}}
+*{{th}}: [2] {{çeviri|th|รถยนต์}}, {{çeviri|th|รถ}} (rōht)
+*{{uk}}: [1] {{çeviri|uk|каруца|tr=karut͡sa}}; [2] {{çeviri|uk|машина|tr=maʂina}}, {{çeviri|uk|авто|tr=avto|m}}
+*{{ur}}: [2] {{çeviri|ur|گاری}}, {{çeviri|ur|خود متحرک}}, {{çeviri|ur|gaari}}
+*{{vi}}: [2] {{çeviri|vi|ô-tô}}
+*{{xh}}: [2] {{çeviri|xh|imoto}}; [3] {{çeviri|xh|thutha}}
+*{{yi}}: [2] {{çeviri|yi|mashin}}, {{çeviri|yi|oyto}}
+*{{el}}: [2] {{çeviri|el|αυτοκίνητο}}
+*{{zu}}: [2] {{çeviri|zu|imoto}}; [3] {{çeviri|zu|ikalishi}}
+{{Alt}}
+
+{{Türk Dilleri}}
+{{Üst}}
+*{{alt}}: {{çeviri|alt|}}
+*{{az}}: [1] {{çeviri|az|araba}}; [2] {{çeviri|az|avtomobil}}
+*{{ba}}: {{çeviri|ba|}}
+*{{chg}}: {{çeviri|chg|}}
+*{{cv}}: {{çeviri|cv|}}
+*{{gag}}: {{çeviri|gag|araba}}
+*{{krc}}: [1] {{çeviri|krc|arba}}
+*{{kaa}}: {{çeviri|kaa|}}
+*{{kk}}: {{çeviri|kk|}}
+{{Orta}}
+*{{crh}}: {{çeviri|crh|}}
+*{{ky}}: [1] {{çeviri|ky|araba}}; [2] {{çeviri|ky|avtomobil}}
+*{{uz}}: {{çeviri|uz|}}
+*{{tt}}: [1] {{çeviri|tt|arba}}
+*{{tk}}: [1] {{çeviri|tk|maşyyn}}
+*{{tyv}}: {{çeviri|tyv|}}
+*{{ug}}: {{çeviri|ug|}}
+*{{sah}}: {{çeviri|sah|}}
+{{Alt}}
+
+{{Örnekler}}
+:[1] ''İhsan vaktinde hastahaneye yetişebilmek için bir türlü araba bulamamış, tramvayla gelmişti, hatta yolda boş bir '''araba''' bulabilmek için tramvayın basamağında beklemişti.'' - Ahmet Hamdi Tanpınar (Huzur, s.16)
+
+{{Atasözler}}
+:[[Araba devrilince yol gösteren çok olur]]
+:[[Araba ile tavşan avlanmaz]]
+
+{{Üst Kavramlar}}
+:[1] [[taşıt]], [[vasıta]]
+
+{{Alt Kavramlar}}
+:[1] [[at arabası]], [[el arabası]]
+
+{{Sözcük Birliktelikleri}}
+:[[atlı araba]], [[taş arabası]]
+
+{{Köken}}
+:{{k|Arapça}} {{Arap yazısı|عَرَبَةٌ|عربة|tr=ʕaraba(tun)}}
+
+{{Kaynaklar}}
+{{Kaynak-TDK|{{PAGENAME}}}}
+
+==={{Söztürü|Önad|Türkçe}}===
+{{Anlamlar}}
+:[1] Bu taşıtın aldığı miktarda.
+
+{{Heceleme}}
+:{{heceleme|-|a|ra|ba}}
+
+{{Örnekler}}
+:[1] "İki araba saman", "bir araba kömür"
+
+{{Köken}}
+:[1] {{k|Arapça}} {{Arap yazısı|عَرَبَة|عربة}}
+
+----
+
+=={{Dil|Azerice}}==
+==={{Söztürü|Ad|Azerice}}===
+{{Anlamlar}}
+:[1] {{t|taşıt|dil= Azerice}} [[araba#Türkçe|araba]]
+
+{{Köken}}
+:[1] {{k|Arapça|dil= Azerice}} {{Arap yazısı|عَرَبَة|عربة}}
+
+----
+
+=={{Dil|Gagavuzca}}==
+==={{Söztürü|Ad|Gagavuzca}}===
+{{Anlamlar}}
+:[1] {{t|taşıt|dil= Gagavuzca}} [[araba#Türkçe|araba]]
+
+{{Köken}}
+:[1] {{k|Arapça|dil= Gagavuzca}} {{Arap yazısı|عَرَبَة|عربة}}
+
+{{Kaynaklar}}
+*{{Kaynak-EtymDict}}
+
+----
+
+=={{Dil|Kırgızca}}==
+==={{Söztürü|Ad|Kırgızca}}===
+{{Anlamlar}}
+:[1] {{t|taşıt|dil= Kırgızca}} [[araba#Türkçe|araba]]
+
+{{Köken}}
+:[1] {{k|Arapça|dil= Kırgızca}} {{Arap yazısı|عَرَبَة|عربة}}
+
+----
+
+=={{Dil|Türkmence}}==
+==={{Söztürü|Ad|Türkmence}}===
+{{Anlamlar}}
+:[1] {{t|taşıt|dil= Türkmence}} [[araba#Türkçe|araba]]
+:[2] [[kağnı]]
+
+{{Köken}}
+:[1] {{k|Arapça|dil= Türkmence}} {{Arap yazısı|عَرَبَة|عربة}}
+
+[[az:araba]]
+[[bs:araba]]
+[[ca:araba]]
+[[chr:araba]]
+[[cy:araba]]
+[[de:araba]]
+[[el:araba]]
+[[en:araba]]
+[[eo:araba]]
+[[es:araba]]
+[[fa:araba]]
+[[fi:araba]]
+[[fj:araba]]
+[[fr:araba]]
+[[fy:araba]]
+[[gl:araba]]
+[[hu:araba]]
+[[hy:araba]]
+[[io:araba]]
+[[it:araba]]
+[[ja:araba]]
+[[ka:araba]]
+[[kn:araba]]
+[[ko:araba]]
+[[ku:araba]]
+[[ky:araba]]
+[[lt:araba]]
+[[mg:araba]]
+[[nl:araba]]
+[[pl:araba]]
+[[pt:araba]]
+[[ru:araba]]
+[[sh:araba]]
+[[sq:araba]]
+[[st:araba]]
+[[ta:araba]]
+[[tk:araba]]
+[[uz:araba]]
+

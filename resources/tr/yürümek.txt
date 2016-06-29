@@ -1,0 +1,58 @@
+{{çekimf|yür|ü|-}}
+
+=={{Dil|Türkçe}}==
+==={{Söztürü|Eylem|Türkçe}}===
+'''yürümek''' -r
+{{Anlamlar}}
+:[1] {{t|fizyoloji}} [[adım]] atarak ilerlemek, [[gitmek]]
+::''Kafası yerde, kamburunu çıkarmış, yürüyordu.'' -H. Taner
+
+===Eski Yazı===
+<font size=5>یورومک</font>
+
+{{Deyimler}}
+:[[izinden yürümek]]
+
+{{Kaynaklar}}
+{{Kaynak-TDK|{{PAGENAME}}}}
+
+{{Türk Dilleri}}
+{{Üst}}
+*{{crh}}: [1] {{çeviri|crh|cürmek}}, {{çeviri|crh|yürmek}}
+{{Orta}}
+*{{tt}}: [1] {{çeviri|tt|yörü}}
+*{{tk}}: [1] {{çeviri|tk|ýörmek}}
+{{Alt}}
+
+{{Çeviriler}}
+{{Üst}}
+*{{de}}: [1] {{çeviri|de|gehen}}, {{çeviri|de|laufen}}
+*{{cs}}: [1] {{çeviri|cs|}}
+*{{fi}}: [1] {{çeviri|fi|kävellä}}
+*{{fr}}: [1] {{çeviri|fr|marcher}}
+*{{nl}}: [1] {{çeviri|nl|}}
+*{{en}}: [1] {{çeviri|en|walk}}, {{çeviri|en|amble}}
+{{Orta}}
+*{{es}}: [1] {{çeviri|es|caminar}}
+*{{sv}}: [1] {{çeviri|sv|gå}}
+*{{it}}: [1] {{çeviri|it|}}
+*{{ku}}: [1] {{çeviri|ku|}}
+*{{hu}}: [1] {{çeviri|hu|}}
+*{{el}}: [1] {{çeviri|el|}}
+{{Alt}}
+
+
+
+[[el:yürümek]]
+[[en:yürümek]]
+[[fa:yürümek]]
+[[fr:yürümek]]
+[[fy:yürümek]]
+[[hu:yürümek]]
+[[io:yürümek]]
+[[nl:yürümek]]
+[[pl:yürümek]]
+[[ro:yürümek]]
+[[sv:yürümek]]
+[[uz:yürümek]]
+

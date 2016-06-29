@@ -1,0 +1,143 @@
+=={{Dil|Türkçe}}==
+==={{Söz türü|Ad|Türkçe}}===
+{{çekimad|{{PAGENAME}}}}
+{{Anlamlar}}
+:[1] [[toprağın]] kayıp akmasını veya suyun yayılmasını önlemek için yapılan kalın duvar
+:[2] bulunulan yerden daha yüksekte kalan düzlük
+:[3] seki
+:[4] ateşli silâhlarda namlunun içindeki helisin çıkıntı bölümü
+:[5] ''Futbol:'' [[serbest atış]]ta karşı takımın omuz omuza durarak oluşturduğu engel
+:[5] ''Tenis:'' oyunun bir bölümü
+
+{{Köken}}
+:[1] {{k|İngilizce}}
+
+{{Kaynaklar}}
+{{Kaynak-TDK|{{PAGENAME}}}}
+
+
+
+
+
+=={{Dil|İngilizce}}==
+==={{Söz türü|Ad|İngilizce}}===
+{{Anlamlar}}
+:[1] {{t|dil bilimi|dil= İngilizce}} [[küme]]
+
+
+
+
+
+=={{Dil|Kırım Tatarca}}==
+==={{Söz türü|Ad|Kırım Tatarca}}===
+{{Anlamlar}}
+:[1] [[divan]], [[sofa]], [[sedir]], üç-dört kişilik oturma koltuğu
+
+{{Örnekler}}
+:[1] Veranda içinde '''set''' üstünde oturğan, sol ayağını yanbaşı astına tıqıp, sağ ayağını minder üstüne uzatqan.(Şamil Aladin- Çauş Başı)
+:[1] Cıyınğa kelgen yaşlar, qızlar '''set'''lerge yerleşip oturalar.(Lenera Memetova - Qırım Tatar Halq Adetleri)
+
+
+
+
+
+=={{Dil|Katalanca}}==
+==={{Söz türü|Rakam|Katalanca}}===
+{{Anlamlar}}
+:[1] [[yedi]]
+
+
+
+
+
+=={{Dil|Ladince}}==
+==={{Söz türü|Rakam|Ladince}}===
+{{Anlamlar}}
+:[1] [[yedi]]
+
+
+
+
+
+=={{Dil|Normanca}}==
+==={{Söz türü|Rakam|Normanca}}===
+{{Anlamlar}}
+:[1] [[yedi]]
+
+
+
+
+
+=={{Dil|Reto Romanca}}==
+==={{Söz türü|Rakam|Reto Romanca}}===
+{{Anlamlar}}
+:[1] [[yedi]]
+
+
+
+
+
+=={{Dil|Valonca}}==
+==={{Söz türü|Rakam|Valonca}}===
+{{Anlamlar}}
+:[1] [[yedi]]
+
+[[ast:set]]
+[[az:set]]
+[[ca:set]]
+[[chr:set]]
+[[cs:set]]
+[[cy:set]]
+[[de:set]]
+[[el:set]]
+[[en:set]]
+[[es:set]]
+[[et:set]]
+[[eu:set]]
+[[fa:set]]
+[[fi:set]]
+[[fj:set]]
+[[fr:set]]
+[[gl:set]]
+[[hr:set]]
+[[hu:set]]
+[[hy:set]]
+[[id:set]]
+[[io:set]]
+[[is:set]]
+[[it:set]]
+[[ja:set]]
+[[jbo:set]]
+[[kk:set]]
+[[kn:set]]
+[[ko:set]]
+[[ku:set]]
+[[li:set]]
+[[lo:set]]
+[[lt:set]]
+[[lv:set]]
+[[mg:set]]
+[[ml:set]]
+[[my:set]]
+[[nah:set]]
+[[nl:set]]
+[[no:set]]
+[[oc:set]]
+[[pl:set]]
+[[pt:set]]
+[[ro:set]]
+[[ru:set]]
+[[sh:set]]
+[[simple:set]]
+[[sq:set]]
+[[sv:set]]
+[[ta:set]]
+[[te:set]]
+[[th:set]]
+[[uk:set]]
+[[uz:set]]
+[[vi:set]]
+[[vo:set]]
+[[wa:set]]
+[[wo:set]]
+[[zh:set]]

@@ -1,0 +1,81 @@
+=={{Dil|Türkçe}}==
+==={{Söztürü|Eylem|Türkçe}}===
+'''bakmak''' -ar
+{{Anlamlar}} 
+:[1] [[göz]] yardımı ile çevredeki nesne ve olayları farkına varmak
+:[2] Bakıma muhtaç bir kimseye/canlıya hizmet etmek
+:[3] [[bir şey]]e [[göz kulak olmak]]
+:[4] [[aramak]]
+:[5] [[ilgilenmek]]
+:[6] [[beslemek]], [[geçindirmek]]
+
+{{Yazılışlar}}
+: {{Eski Yazı|[[باقمق]]}}
+
+{{Atasözler}}
+:[1] [[Güzele bakmak sevaptır]]
+
+{{Deyimler}}
+:[[ana baba eline bakmak]]
+:[[çeşnisine bakmak]]
+:[[dürbünün tersiyle bakmak]]
+:[[fena gözle bakmak]]
+:[[gözü toprağa bakmak]]
+:[[gül gibi bakmak]]
+:[[icabına bakmak]]
+
+{{Türk Dilleri}}
+{{Üst}}
+*{{az}}: {{çeviri|az|baxmaq}}
+*{{etr}}: {{çeviri|tr|bakmak}}
+*{{uz}}: {{çeviri|uz|boqmoq}}
+*{{gag}}: {{çeviri|gag|bakmaa}}
+*{{kk}}: {{çeviri|kk|қарау}}
+*{{nog}}: {{çeviri|nog|karamak}}
+{{Orta}}
+*{{krc}}: {{çeviri|krc|asıra}}
+*{{crh}}: [1-3]{{çeviri|crh|baqmaq}}, {{çeviri|crh|qaramaq}} Kuzey lehçesi, [4]{{çeviri|crh|qıdırmaq}} 
+*{{tt}}: {{çeviri|tt|bağu}}, {{çeviri|tt|qaraw}}
+*{{tk}}: {{çeviri|tk|bakmak}}, {{çeviri|tk|garamak}}, {{çeviri|tk|nazar salmak}}, {{çeviri|tk|seretmek}}
+{{Alt}}
+
+{{Çeviriler}}
+{{Üst}}
+*{{de}}: {{çeviri|de|schauen}}
+*{{fi}}: {{çeviri|fi|katsoa}}
+*{{fr}}: {{çeviri|fr|}}
+*{{en}}: {{çeviri|en|look}}
+{{Orta}}
+{{Alt}}
+
+=={{Dil|Eski Türkçe}}==
+==={{Söztürü|Eylem|Eski Türkçe}}===
+{{Anlamlar}}
+:[1] bakmak
+
+=={{Dil|Türkmence}}==
+==={{Söztürü|Eylem|Türkmence}}===
+{{Anlamlar}}
+:[1] bakmak
+:[2] [[görmek]]
+
+[[az:bakmak]]
+[[bs:bakmak]]
+[[chr:bakmak]]
+[[el:bakmak]]
+[[en:bakmak]]
+[[fa:bakmak]]
+[[fr:bakmak]]
+[[hu:bakmak]]
+[[io:bakmak]]
+[[ku:bakmak]]
+[[mg:bakmak]]
+[[nl:bakmak]]
+[[pl:bakmak]]
+[[pt:bakmak]]
+[[ro:bakmak]]
+[[ru:bakmak]]
+[[tk:bakmak]]
+[[uz:bakmak]]
+[[vi:bakmak]]
+

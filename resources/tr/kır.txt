@@ -1,0 +1,224 @@
+[[Resim:XN Fruehjahrswiese 00.jpg|thumb|160px|[2] [[ilkbahar|İlkbaharda]] çiçekli bir kır]]
+
+
+{{bakınız|gri|kir}}
+=={{Dil|Türkçe}}==
+==={{Söztürü|Ad|Türkçe}}===
+'''kır''' -rı
+{{Anlamlar}}
+:[1] {{t|renk}} [[beyaz|beyazla]] az miktarda [[siyah]] karışmasından oluşan renk {{renk|#7F7F7F}}
+::''Gözlerinden, kırları artan sakalına bir iki damla yaş düştü.'' - F. R. Atay
+:[2] [[şehir]] ve [[kasaba|kasabaların]] dışında kalan, çoğu [[boş]] ve [[geniş]] yer
+
+{{Köken}}
+:[1] {{k|Eski Türkçe}}
+
+{{Kaynaklar}}
+{{Kaynak-TDK|{{PAGENAME}}}}
+
+{{Türk Dilleri}}
+{{Üst}}
+*{{alt}}: {{çeviri|alt|}}
+*{{az}}: {{çeviri|az|}}
+*{{ba}}: {{çeviri|ba|}}
+*{{chg}}: {{çeviri|chg|}}
+*{{cv}}: {{çeviri|cv|}}
+*{{gag}}: {{çeviri|gag|}}
+*{{kjh}}: {{çeviri|kjh|}}
+*{{krc}}: {{çeviri|krc|}}
+*{{kaa}}: {{çeviri|kaa|}}
+*{{kdr}}: {{çeviri|kdr|}}
+*{{kk}}: {{çeviri|kk|}}
+{{Orta}}
+*{{crh}}: {{çeviri|crh|}}
+*{{ky}}: {{çeviri|ky|}}
+*{{qwm}}: {{çeviri|qwm|}}
+*{{kum}}: {{çeviri|kum|}}
+*{{nog}}: {{çeviri|nog|}}
+*{{uz}}: {{çeviri|uz|}}
+*{{cjs}}: {{çeviri|cjs|}}
+*{{tt}}: {{çeviri|tt|}}
+*{{tk}}: {{çeviri|tk|}}
+*{{tyv}}: {{çeviri|tyv|}}
+*{{ug}}: {{çeviri|ug|}}
+*{{sah}}: {{çeviri|sah|}}
+{{Alt}}
+
+{{Çeviriler}}
+{{Üst}}
+*{{abq}}: [1] {{çeviri|abq|}}
+*{{ab}}: [1] {{çeviri|ab|}}
+*{{ady}}: [1] {{çeviri|ady|}}
+*{{af}}: [1] {{çeviri|af|}}
+*{{akk}}: [1] {{çeviri|akk|}}
+*{{de}}: [1] {{çeviri|de|Grau}}
+*{{am}}: [1] {{çeviri|am|}}
+*{{an}}: [1] {{çeviri|an|}}
+*{{ar}}: [1] {{çeviri|ar|مرج}}
+*{{sq}}: [1] {{çeviri|sq|}}
+*{{frp}}: [1] {{çeviri|frp|}}
+*{{as}}: [1] {{çeviri|as|}}
+*{{ast}}: [1] {{çeviri|ast|}}
+*{{nds}}: [1] {{çeviri|nds|}}
+*{{ay}}: [1] {{çeviri|ay|}}
+*{{bm}}: [1] {{çeviri|bm|}}
+*{{eu}}: [1] {{çeviri|eu|}}
+*{{bn}}: [1] {{çeviri|bn|}}
+*{{be}}: [1] {{çeviri|be|}}
+*{{bi}}: [1] {{çeviri|bi|}}
+*{{br}}: [1] {{çeviri|br|}}
+*{{bs}}: [1] {{çeviri|bs|}}
+*{{bg}}: [1] {{çeviri|bg|}}
+*{{bua}}: [1] {{çeviri|bua|}}
+*{{rmq}}: [1] {{çeviri|rmq|}}
+*{{jv}}: [1] {{çeviri|jv|}}
+*{{ce}}: [1] {{çeviri|ce|}}
+*{{cs}}: [1] {{çeviri|cs|}}
+*{{chr}}: [1] {{çeviri|chr|}}
+*{{zh}}: [1] {{çeviri|zh|}}
+*{{da}}: [1] {{çeviri|da|}}
+*{{prs}}: [1] {{çeviri|prs|}}
+*{{id}}: [1] {{çeviri|id|}}
+*{{hy}}: [1] {{çeviri|hy|}}
+*{{myv}}: [1] {{çeviri|myv|}}
+*{{eo}}: [1] {{çeviri|eo|}}
+*{{et}}: [1] {{çeviri|et|}}
+*{{evn}}: [1] {{çeviri|evn|}}
+*{{ee}}: [1] {{çeviri|ee|}}
+*{{fo}}: [1] {{çeviri|fo|}}
+*{{fa}}: [1] {{çeviri|fa|}}
+*{{fj}}: [1] {{çeviri|fj|}}
+*{{fi}}: [1] {{çeviri|fi|harmaa}}, [2] {{çeviri|fi|maaseutu}}
+*{{fr}}: [1] {{çeviri|fr|gris}}, [2] {{çeviri|fr|campagne|f}}
+*{{fur}}: [1] {{çeviri|fur|}}
+*{{fy}}: [1] {{çeviri|fy|}}
+*{{cy}}: [1] {{çeviri|cy|}}
+*{{gl}}: [1] {{çeviri|gl|}}
+*{{gn}}: [1] {{çeviri|gn|}}
+*{{gu}}: [1] {{çeviri|gu|}}
+*{{ka}}: [1] {{çeviri|ka|}}
+*{{ha}}: [1] {{çeviri|ha|}}
+*{{hr}}: [1] {{çeviri|hr|}}
+*{{hi}}: [1] {{çeviri|hi|}}
+*{{nl}}: [1] {{çeviri|nl|}}
+*{{he}}: [1] {{çeviri|he|}}
+*{{io}}: [1] {{çeviri|io|}}
+*{{en}}: [1] {{çeviri|en|grey}}, [2] {{çeviri|en|country}}
+*{{inh}}: [1] {{çeviri|inh|}}
+*{{ia}}: [1] {{çeviri|ia|}}
+*{{ga}}: [1] {{çeviri|ga|}}
+*{{gd}}: [1] {{çeviri|gd|}}
+*{{sco}}: [1] {{çeviri|sco|}}
+*{{es}}: [1] {{çeviri|es|gris}}, [2] {{çeviri|es|campo}}
+*{{sv}}: [1] {{çeviri|sv|}}
+*{{gsw}}: [1] {{çeviri|de|}}
+{{Orta}}
+*{{it}}: [1] {{çeviri|it|}}
+*{{is}}: [1] {{çeviri|is|}}
+*{{ja}}: [1] {{çeviri|ja|}}
+*{{xal}}: [1] {{çeviri|xal|}}
+*{{ca}}: [1] {{çeviri|ca|}}
+*{{qu}}: [1] {{çeviri|qu|}}
+*{{kw}}: [1] {{çeviri|kw|}}
+*{{km}}: [1] {{çeviri|km|}}
+*{{kok}}: [1] {{çeviri|kok|}}
+*{{ko}}: [1] {{çeviri|ko|}}
+*{{co}}: [1] {{çeviri|co|}}
+*{{ku}}: [1] {{çeviri|ku|}}
+*{{la}}: [1] {{çeviri|la|}}
+*{{pl}}: [1] {{çeviri|pl|}}
+*{{lv}}: [1] {{çeviri|lv|}}
+*{{lez}}: [1] {{çeviri|lez|}}
+*{{lij}}: [1] {{çeviri|lij|}}
+*{{li}}: [1] {{çeviri|li|}}
+*{{lt}}: [1] {{çeviri|lt|}}
+*{{lb}}: [1] {{çeviri|lb|}}
+*{{mas}}: [1] {{çeviri|mas|}}
+*{{hu}}: [1] {{çeviri|hu|}}
+*{{mk}}: [1] {{çeviri|mk|}}
+*{{ml}}: [1] {{çeviri|ml|}}
+*{{ms}}: [1] {{çeviri|ms|}}
+*{{mg}}: [1] {{çeviri|mg|}}
+*{{mt}}: [1] {{çeviri|mt|}}
+*{{gv}} [1] {{çeviri|gv|}}
+*{{mi}}: [1] {{çeviri|mi|}}
+*{{mr}}: [1] {{çeviri|mr|}}
+*{{chm}}: [1] {{çeviri|chm|}}
+*{{mn}}: [1] {{çeviri|mn|}}
+*{{mdf}}: [1] {{çeviri|mdf|}}
+*{{mo}}: [1] {{çeviri|mo|}}
+*{{roa}}: [1] {{çeviri|roa|}}
+*{{no}}: [1] {{çeviri|no|}}
+*{{oc}}: [1] {{çeviri|oc|}}
+*{{os}}: [1] {{çeviri|os|}}
+*{{pa}}: [1] {{çeviri|pa|}}
+*{{pt}}: [1] {{çeviri|pt|cinza}}
+*{{rm}}: [1] {{çeviri|rm|}}
+*{{ro}}: [1] {{çeviri|ro|}}
+*{{ru}}: [1] {{çeviri|ru|}}
+*{{sa}}: [1] {{çeviri|sa|}}
+*{{sw}}: [1] {{çeviri|sw|}}
+*{{sr}}: [1] {{çeviri|sr|}}
+*{{scn}}: [1] {{çeviri|scn|}}
+*{{sk}}: [1] {{çeviri|sk|}}
+*{{sl}}: [1] {{çeviri|sl|}}
+*{{so}}: [1] {{çeviri|so|}}
+*{{su}}: [1] {{çeviri|su|}}
+*{{sn}}: [1] {{çeviri|sn|}}
+*{{tl}}: [1] {{çeviri|tl|}}
+*{{ta}}: [1] {{çeviri|ta|}}
+*{{th}}: [1] {{çeviri|th|}}
+*{{udm}}: [1] {{çeviri|udm|}}
+*{{uk}}: [1] {{çeviri|uk|}}
+*{{ur}}: [1] {{çeviri|ur|}}
+*{{vec}}: [1] {{çeviri|vec|}}
+*{{vep}}: [1] {{çeviri|vep|}}
+*{{vo}}: [1] {{çeviri|vo|}}
+*{{yo}}: [1] {{çeviri|yo|}}
+*{{el}}: [1] {{çeviri|el|}}
+*{{zu}}: [1] {{çeviri|zu|}}
+{{Alt}}
+
+==={{Söztürü|Emir|Türkçe}}===
+{{Anlamlar}}
+:[1] [[kırmak]] fiilinin [[emir kipi]]
+
+{{Atasözler}}
+:[[Kır atın yanında duran ya huyundan ya suyundan]]
+:[[Kocanın kabı ikiyse birini kır]]
+
+{{Türk Dilleri}}
+{{Üst}}
+*{{az}}: {{çeviri|az|}}
+*{{krc}}: {{çeviri|krc|avlak}}, {{çeviri|krc|kula tüz}}
+*{{tt}}: {{çeviri|tt|qır}}
+{{Orta}}
+{{Alt}}
+
+{{Çeviriler}}
+{{Üst}}
+*{{fi}}: [1] {{çeviri|fi|murra}}
+{{Orta}}
+{{Alt}}
+
+==={{Söztürü|Ön ad|Türkçe}}===
+{{Anlamlar}}
+:[1] {{t|renk}} kır renkte olan, [[gri]]
+::''Kır sakal. Kır at.''
+ 
+
+
+
+
+=={{Dil|Zazaca}}==
+==={{Söztürü|Ad|Zazaca}}===
+{{Anlamlar}}
+:[1] [[penis]]
+
+[[hu:kır]]
+[[io:kır]]
+[[ku:kır]]
+[[mg:kır]]
+[[pt:kır]]
+[[uz:kır]]
+

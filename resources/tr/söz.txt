@@ -1,0 +1,277 @@
+=={{Dil|Türkçe}}==
+==={{Söz türü|Ad|Türkçe}}===
+{{çekim|s|ö|z}}
+{{tamlama|s|ö|z}}
+{{Anlamlar}}
+:[1] {{t|dil bilimi}} bir [[düşünce|düşünceyi]] [[eksiksiz]] olarak [[anlatmak  |anlatan]] [[kelime]] dizisi
+:[2] bir veya birkaç heceden oluşan ve anlamı olan ses birliği, [[kelime]], [[sözcük]]
+:[3] bir konuyu yazılı veya sözlü olarak açıklamaya yarayan kelime dizisi
+::''Yer yer birçok türküde rastladığımız beylik sözler de vardı içinde.'' - B. R. Eyuboğlu
+:[4] [[kesinlik]] kazanmayan haber, [[söylenti]]
+::''Ortalıkta bir söz dolaşıyor.'' 
+:[5] bir işi yapacağını kesin olarak [[vadetme]]
+::''O, sözünde duran bir adamdır.'' 
+:[6] {{t|müzik}} [[müzik]] parçalarının yazılı metni, [[güfte]]
+::''Şarkının sözleri çok anlamlı.''
+
+{{Söyleniş}}
+:{{IPA|ˈsøz}}
+
+{{Heceleme}}
+:{{h|e|söz}}
+
+{{Eş Anlamlılar}}
+:[1] [[kavil]], [[kelam]], [[laf]], [[lakırtı]]
+
+{{Küçültmeler}}
+:[[sözcük]]
+
+{{Köken}}
+: {{k|Türkçe}}
+
+{{Atasözler}}
+:[[Adam olana bir söz yeter]]
+:[[Ahmağa yüz, abdala söz vermeye gelmez]]
+:[[Bir söz ara bozar,bir söz ara düzer]]
+:[[Bir söz bin büyüye bedeldir]]
+:[[Bir söz yola getirir, bir söz yoldan çıkarır]]
+:[[Büyük lokma ye büyük söz söyleme]]
+:[[Cahile söz anlatmak, deveye hendek atlatmaktan güçtür]]
+:[1] [[Sus küçüğün, söz büyüğün]]
+
+{{Sözcük Birliktelikleri}}
+:[[acı söz]], [[ağır söz]], [[ara söz]], [[atasözü]], [[beylik söz]], [[eğri söz]], [[iğneli söz]], [[katı söz]], [[kuru söz]], [[lastikli söz]], [[namus sözü]], [[ön söz]], [[özlü söz]], [[pis söz]], [[sav söz]], [[son söz]], [[söz başı]], [[söz birliği]], [[söz bölüğü]], [[söz bölükleri]], [[söz cambazı]], [[söz dağarcığı]], [[söz dalaşı]], [[söz dizimi]], [[söz düellosu]], [[söz ebesi]], [[söz ehli]], [[söz gelimi]], [[söz gelişi]], [[söz gösterisi]], [[sözgötürmez]], [[söz hazinesi]], [[söz karışıklığı]], [[söz kesimi]], [[söz konusu]], [[söz meydanı]], [[söz misali]], [[söz rüşveti]], [[söz sahibi]], [[söz sırası]], [[söz temsili]], [[söz ustası]], [[söz varlığı]], [[söz yarışı]], [[söz yazarı]], [[söz yitimi]], [[söz zinciri]], [[sözüm ona]], [[sözün kısası]], [[sözüne sahip]], [[sözünübilmez]], [[şeref sözü]], [[tatlı söz]]
+
+{{Türetilmiş Kavramlar}}
+:[[sözce]], [[sözcü]], [[sözle]], [[sözlü]], [[sözse]], [[sözsüz]]
+
+{{Deyimler}}
+:[[söz açmak]], [[söz almak]], [[söz altında kalmamak]], [[söz anlayan beri gelsin]], [[söz aramızda]], [[söz atmak]], [[söz ayağa düşmek]], [[söz bir, Allah bir]], [[söz çıkmak]], [[söz düşmemek]], [[sözde kalmak]], [[söz dinlemek]], [[söz tutmak]], [[söz düşmemek]], [[söz düşürmek]], [[söz vermek]], [[söze atılmak]], [[söze başlamak]], [[söze karışmak]], [[söze son vermek]], [[söz etmek]], [[söze yatmak]], [[söz geçirmek]], [[söz gelmek]], [[söz getirmek]], [[söz götürmek]], [[söz götürmez]], [[söz gümüşse sükût altındır]], [[söz işitmek]], [[söz kaldırmamak]], [[söz kesmek]], [[söz olmak]], [[söz sahibi olmak]], [[söz sözü açmak]], [[söz tutmak]], [[sözü açılmak]], [[sözü ağzına tıkamak]], [[sözü ağzında bırakmak]], [[sözü ağzında gevelemek]], [[sözü ağzında kalmak]], [[sözü ağzından almak]], [[sözü bağlamak]], [[sözü çevirmek]], [[sözü dağıtmak]], [[sözü edilmek]], [[sözü geçmek]], [[sözü kesmek]], [[sözüm meclisten dışarı]], [[sözü mü olur?]], [[sözüm yabana]], [[sözün ardı boşa çıkmak]], [[sözünde durmak]], [[sözünden çıkmamak]], [[sözünden dönmek]], [[(birinin) sözüne gelmek]], [[sözüne sadık kalmak]], [[sözünü esirgememek (veya sakınmamak)]], [[sözünü geri almak]], [[sözünü kesmek]], [[sözünün eri]], [[sözünün eri olmak]], [[sözünü tutmak]], [[sözünü tutmak]], [[sözünü balla kesmek]], [[sözü sohbeti yerinde]], [[sözü tartmak]], [[sözü uzatmak]], [[söz var, iş bitirir; söz var, baş yitirir]], [[söz vermek]], [[söz yetiştirmek]], [[söz yok!]]
+
+{{Kaynaklar}}
+{{Kaynak-TDK|{{PAGENAME}}}}
+
+{{Türk Dilleri}}
+{{Üst}}
+*{{alt}}: {{çeviri|alt|}}
+*{{az}}: {{çeviri|az|söz}}
+*{{ba}}: {{çeviri|ba|}}
+*{{chg}}: {{çeviri|chg|}}
+*{{cv}}: {{çeviri|cv|}}
+*{{etr}}: {{çeviri|tr|çıgıl tıgıl}}, {{çeviri|tr|keleçü}}
+*{{gag}}: {{çeviri|gag|}}
+*{{kjh}}: {{çeviri|kjh|}}
+*{{krc}}: {{çeviri|krc|}}
+*{{kaa}}: {{çeviri|kaa|}}
+*{{kdr}}: {{çeviri|kdr|}}
+*{{kk}}: {{çeviri|kk|}}
+{{Orta}}
+*{{crh}}: {{çeviri|crh|}}
+*{{ky}}: {{çeviri|ky|}}
+*{{qwm}}: {{çeviri|qwm|}}
+*{{kum}}: {{çeviri|kum|}}
+*{{uz}}: {{çeviri|uz|gap}}
+*{{cjs}}: {{çeviri|cjs|}}
+*{{tt}}: {{çeviri|tt|}}
+*{{tk}}: {{çeviri|tk|söz}}, {{çeviri|tk|kelaam}}
+*{{tyv}}: {{çeviri|tyv|}}
+*{{ug}}: {{çeviri|ug|}}
+*{{sah}}: {{çeviri|sah|}}
+{{Alt}}
+
+{{Çeviriler}}
+{{Üst}}
+*{{abq}}: [1] {{çeviri|abq|}}
+*{{ab}}: [1] {{çeviri|ab|}}
+*{{ady}}: [1] {{çeviri|ady|}}
+*{{af}}: [1] {{çeviri|af|}}
+*{{akk}}: [1] {{çeviri|akk|}}
+*{{de}}: [1] {{çeviri|de|Wort|n}}
+*{{am}}: [1] {{çeviri|am|}}
+*{{an}}: [1] {{çeviri|an|}}
+*{{ar}}: [1] {{çeviri|ar|}}
+*{{sq}}: [1] {{çeviri|sq|}}
+*{{frp}}: [1] {{çeviri|frp|}}
+*{{as}}: [1] {{çeviri|as|}}
+*{{ast}}: [1] {{çeviri|ast|}}
+*{{nds}}: [1] {{çeviri|nds|}}
+*{{ay}}: [1] {{çeviri|ay|}}
+*{{bm}}: [1] {{çeviri|bm|}}
+*{{eu}}: [1] {{çeviri|eu|}}
+*{{bn}}: [1] {{çeviri|bn|}}
+*{{be}}: [1] {{çeviri|be|}}
+*{{bi}}: [1] {{çeviri|bi|}}
+*{{br}}: [1] {{çeviri|br|}}
+*{{bs}}: [1] {{çeviri|bs|}}
+*{{bg}}: [1] {{çeviri|bg|}}
+*{{bua}}: [1] {{çeviri|bua|}}
+*{{rmq}}: [1] {{çeviri|rmq|}}
+*{{jv}}: [1] {{çeviri|jv|}}
+*{{ce}}: [1] {{çeviri|ce|}}
+*{{cs}}: [1] {{çeviri|cs|}}
+*{{chr}}: [1] {{çeviri|chr|}}
+*{{zh}}: [1] {{çeviri|zh|}}
+*{{da}}: [1] {{çeviri|da|}}
+*{{prs}}: [1] {{çeviri|prs|}}
+*{{id}}: [1] {{çeviri|id|}}
+*{{hy}}: [1] {{çeviri|hy|}}
+*{{myv}}: [1] {{çeviri|myv|}}
+*{{eo}}: [1] {{çeviri|eo|}}
+*{{et}}: [1] {{çeviri|et|sõna}}
+*{{evn}}: [1] {{çeviri|evn|}}
+*{{ee}}: [1] {{çeviri|ee|}}
+*{{fo}}: [1] {{çeviri|fo|orð}}
+*{{fa}}: [1] {{çeviri|fa|}}
+*{{fj}}: [1] {{çeviri|fj|}}
+*{{fi}}: [1] {{çeviri|fi|sana}}, {{çeviri|fi|puhe}}, {{çeviri|fi|ilmaus}}
+*{{fr}}: [1] {{çeviri|fr|parole}}
+*{{fur}}: [1] {{çeviri|fur|}}
+*{{fy}}: [1] {{çeviri|fy|}}
+*{{cy}}: [1] {{çeviri|cy|}}
+*{{gl}}: [1] {{çeviri|gl|}}
+*{{gn}}: [1] {{çeviri|gn|}}
+*{{gu}}: [1] {{çeviri|gu|}}
+*{{ka}}: [1] {{çeviri|ka|}}
+*{{ha}}: [1] {{çeviri|ha|}}
+*{{hr}}: [1] {{çeviri|hr|}}
+*{{hi}}: [1] {{çeviri|hi|}}
+*{{nl}}: [1] {{çeviri|nl|}}
+*{{he}}: [1] {{çeviri|he|}}
+*{{io}}: [1] {{çeviri|io|}}
+*{{en}}: [1] {{çeviri|en|word}}
+*{{ia}}: [1] {{çeviri|ia|}}
+*{{ga}}: [1] {{çeviri|ga|}}
+*{{gd}}: [1] {{çeviri|gd|}}
+*{{sco}}: [1] {{çeviri|sco|}}
+*{{es}}: [1] {{çeviri|es|palabra}}
+*{{sv}}: [1] {{çeviri|sv|ord}}
+*{{gsw}}: [1] {{çeviri|de|}}
+{{Orta}}
+*{{it}}: [1] {{çeviri|it|parola}}
+*{{is}}: [1] {{çeviri|is|}}
+*{{ja}}: [1] {{çeviri|ja|}}
+*{{xal}}: [1] {{çeviri|xal|}}
+*{{ca}}: [1] {{çeviri|ca|}}
+*{{qu}}: [1] {{çeviri|qu|}}
+*{{kw}}: [1] {{çeviri|kw|}}
+*{{km}}: [1] {{çeviri|km|}}
+*{{kok}}: [1] {{çeviri|kok|}}
+*{{ko}}: [1] {{çeviri|ko|}}
+*{{co}}: [1] {{çeviri|co|}}
+*{{ku}}: [1] {{çeviri|ku|peyv}}
+*{{la}}: [1] {{çeviri|la|}}
+*{{pl}}: [1] {{çeviri|pl|}}
+*{{lv}}: [1] {{çeviri|lv|}}
+*{{lez}}: [1] {{çeviri|lez|}}
+*{{lij}}: [1] {{çeviri|lij|}}
+*{{li}}: [1] {{çeviri|li|}}
+*{{lt}}: [1] {{çeviri|lt|}}
+*{{lb}}: [1] {{çeviri|lb|}}
+*{{mas}}: [1] {{çeviri|mas|}}
+*{{hu}}: [1] {{çeviri|hu|}}
+*{{mk}}: [1] {{çeviri|mk|}}
+*{{ml}}: [1] {{çeviri|ml|}}
+*{{ms}}: [1] {{çeviri|ms|}}
+*{{mg}}: [1] {{çeviri|mg|}}
+*{{mt}}: [1] {{çeviri|mt|}}
+*{{gv}} [1] {{çeviri|gv|}}
+*{{mi}}: [1] {{çeviri|mi|}}
+*{{mr}}: [1] {{çeviri|mr|}}
+*{{chm}}: [1] {{çeviri|chm|}}
+*{{mn}}: [1] {{çeviri|mn|}}
+*{{mdf}}: [1] {{çeviri|mdf|}}
+*{{mo}}: [1] {{çeviri|mo|}}
+*{{roa}}: [1] {{çeviri|roa|}}
+*{{no}}: [1] {{çeviri|no|}}
+*{{oc}}: [1] {{çeviri|oc|}}
+*{{os}}: [1] {{çeviri|os|}}
+*{{pa}}: [1] {{çeviri|pa|}}
+*{{pt}}: [1] {{çeviri|pt|palavra}}
+*{{rm}}: [1] {{çeviri|rm|}}
+*{{ro}}: [1] {{çeviri|ro|}}
+*{{ru}}: [1] {{çeviri|ru|}}
+*{{sa}}: [1] {{çeviri|sa|}}
+*{{sw}}: [1] {{çeviri|sw|}}
+*{{sr}}: [1] {{çeviri|sr|}}
+*{{scn}}: [1] {{çeviri|scn|}}
+*{{sk}}: [1] {{çeviri|sk|}}
+*{{sl}}: [1] {{çeviri|sl|}}
+*{{so}}: [1] {{çeviri|so|}}
+*{{su}}: [1] {{çeviri|su|}}
+*{{sn}}: [1] {{çeviri|sn|}}
+*{{tl}}: [1] {{çeviri|tl|}}
+*{{ta}}: [1] {{çeviri|ta|}}
+*{{th}}: [1] {{çeviri|th|}}
+*{{udm}}: [1] {{çeviri|udm|}}
+*{{uk}}: [1] {{çeviri|uk|}}
+*{{ur}}: [1] {{çeviri|ur|}}
+*{{vec}}: [1] {{çeviri|vec|}}
+*{{vep}}: [1] {{çeviri|vep|}}
+*{{vo}}: [1] {{çeviri|vo|}}
+*{{yo}}: [1] {{çeviri|yo|}}
+*{{el}}: [1] {{çeviri|el|}}
+*{{zu}}: [1] {{çeviri|zu|}}
+{{Alt}}
+
+
+
+
+
+=={{Dil|Azerice}}==
+==={{Söz türü|Ad|Azerice}}===
+{{Anlamlar}}
+:[1] {{t|dil bilimi|dil= Azerice}} [[kelime]], [[söz#Türkçe|söz]]
+
+----
+
+=={{Dil|Gagavuzca}}==
+==={{Söz türü|Ad|Gagavuzca}}===
+{{Anlamlar}}
+:[1] {{t|dil bilimi|dil= Gagavuzca}} [[kelime]], [[söz#Türkçe|söz]]
+
+{{Köken}}
+:[1] {{köken|Eski Türkçe|dil=Gagavuzca}} söz
+
+{{Kaynaklar}}
+*{{Kaynak-EtymDict}}
+
+----
+
+=={{Dil|Kırım Tatarca}}==
+==={{Söz türü|Ad|Kırım Tatarca}}===
+{{Anlamlar}}
+:[1] {{t|dil bilimi|dil= Kırım Tatarca}} [[kelime]], [[söz#Türkçe|söz]]
+
+----
+
+=={{Dil|Türkmence}}==
+==={{Söz türü|Ad|Türkmence}}===
+{{Anlamlar}}
+:[1] {{t|dil bilimi|dil= Türkmence}} [[kelime]], [[söz#Türkçe|söz]]
+
+[[af:söz]]
+[[az:söz]]
+[[be:söz]]
+[[chr:söz]]
+[[el:söz]]
+[[en:söz]]
+[[es:söz]]
+[[fi:söz]]
+[[fj:söz]]
+[[fr:söz]]
+[[hu:söz]]
+[[io:söz]]
+[[it:söz]]
+[[ja:söz]]
+[[kk:söz]]
+[[kn:söz]]
+[[ko:söz]]
+[[ku:söz]]
+[[ky:söz]]
+[[mg:söz]]
+[[nl:söz]]
+[[pl:söz]]
+[[ru:söz]]
+[[so:söz]]
+[[uk:söz]]
+[[uz:söz]]

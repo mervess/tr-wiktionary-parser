@@ -1,0 +1,176 @@
+{{Vikipedi}}
+=={{Dil|Türkçe}}==
+==={{Söztürü|Ad|Türkçe}}===
+'''yazı''' -sı
+{{Anlamlar}}
+:[1] {{t|yazı}} düşüncenin belli işaretlerle tespit edilmesi, [[yazma]] işi
+::''Türklerde yazının kullanılması eskidir.
+:[2] {{t|yazı}} [[alfabe]]
+::''Türk yazısı.''
+::''Arap yazısı.''
+::''Nota yazısı.''
+:[3] [[harf|harfleri]] yazma biçimi
+::''İnci gibi bir yazı.''
+::''Okunaklı yazı.''
+:[4] herhangi bir konuda yazılmış bilim, düşünce ve sanat ürünü
+::''İstiklal Harbi'nde millî duyguları aksettiren ümit ile dolu yazılarını hâlâ unutmadık.'' - O. S. Orhon
+:[5] [[anlam]], [[sanat]] veya biçim bakımından yazılan şey, [[makale]]
+::''İlk yazı denemelerim için gazete bulmaya çalışıyorum.'' - F. R. Atay
+:[6] {{t|matbaacılık}} [[metal]] paraların üzerinde değeri yazılan yüzü
+:[7] {{t|din}} [[yazgı]]
+
+{{Köken}}
+:[1] {{k|Türkçe}}
+
+{{Karşıt Anlamlılar}}
+:[6] [[tura]]
+
+{{Deyimler}}
+:[[buz üstüne yazı yazmak]]
+:[[yazının cahili olmak]], [[yazıya dökmek]], [[yazıya geçirmek]], [[yazıya gelmemek]], [[yazıyı çıkarmak]], [[yazıyı sökmek]]
+
+{{Sözcük Birliktelikleri}}
+:[1] [[yazı bilgisi]], [[yazı bilimi]], [[yazı çevirimi]], [[yazı dili]], [[yazı emekçisi]], [[yazıhane]], [[yazı hayatı]], [[yazı işleri]], [[yazı kadrosu]], [[yazı kâğıdı]], [[yazı karakteri]], [[yazı kurulu]], [[yazı makinesi]], [[yazı masası]], [[yazı tahtası]], [[yazı takımı]], [[alt yazı]], [[basmayazı]], [[güzel yazı sanatı]], [[resim yazı]], [[saklı yazı]], [[telyazı]], [[yalama yazı]], , [[duvar yazısı]], [[siyakat yazısı]], [[telyazısı]], [[yüz yazısı]]
+:[2] [[eski yazı]], [[runik yazı]], [[yeni yazı]], [[çivi yazısı]]
+:[3] [[bacaklı yazı]], [[celi yazı]], [[düz yazı]], [[eğik yazı]], [[el yazısı]], [[yatık yazı]]
+:[4-5] [[başyazı]], [[çeviri yazı]], [[fikir yazısı]], [[gezi yazısı]], [[güven yazısı]], [[ithaf yazısı]], [[köşe yazısı]], [[tanıtma yazısı]]
+:[6] [[yazı tura]]
+:[7] [[alın yazısı]], [[kara yazı]]
+:[8] [[yazı yaban]]
+
+{{Atasözler}}
+:[[Getir bana hıdrellezi, göstereyim sana yazı]]
+:[[Gönlün yazı var, kışı var]]
+
+{{Kaynaklar}}
+{{Kaynak-TDK|{{PAGENAME}}}}
+
+{{Türk Dilleri}}
+{{Üst}}
+*{{alt}}: {{çeviri|alt|}}
+*{{az}}: {{çeviri|az|}}
+*{{ba}}: {{çeviri|ba|}}
+*{{chg}}: {{çeviri|chg|}}
+*{{cv}}: {{çeviri|cv|}}
+*{{gag}}: {{çeviri|gag|}}
+*{{krc}}: {{çeviri|krc|cazuv}}, {{çeviri|krc|hat}}
+*{{kaa}}: {{çeviri|kaa|}}
+*{{kk}}: {{çeviri|kk|}}
+*{{crh}}: {{çeviri|crh|}}
+*{{ky}}: {{çeviri|ky|}}
+{{Orta}}
+*{{qwm}}: {{çeviri|qwm|}}
+*{{kum}}: {{çeviri|kum|}}
+*{{uz}}: {{çeviri|uz|}}
+*{{cjs}}: {{çeviri|cjs|}}
+*{{tt}}: {{çeviri|tt|}}
+*{{tk}}: {{çeviri|tk|}}
+*{{tyv}}: {{çeviri|tyv|}}
+*{{ug}}: {{çeviri|ug|}}
+*{{sah}}: {{çeviri|sah|}}
+{{Alt}}
+
+{{Çeviriler}}
+{{Üst}}
+*{{af}}: [1] {{çeviri|af|}}
+*{{de}}: [1] {{çeviri|de|}}
+*{{an}}: [1] {{çeviri|an|}}
+*{{ar}}: [1] {{çeviri|ar|}}
+*{{sq}}: [1] {{çeviri|sq|}}
+*{{ay}}: [1] {{çeviri|ay|}}
+*{{eu}}: [1] {{çeviri|eu|}}
+*{{be}}: [1] {{çeviri|be|}}
+*{{br}}: [1] {{çeviri|br|}}
+*{{bs}}: [1] {{çeviri|bs|}}
+*{{bg}}: [1] {{çeviri|bg|}}
+*{{ce}}: [1] {{çeviri|ce|}}
+*{{cs}}: [1] {{çeviri|cs|}}
+*{{zh}}: [1] {{çeviri|zh|}}
+*{{da}}: [1] {{çeviri|da|}}
+*{{hy}}: [1] {{çeviri|hy|}}
+*{{eo}}: [1] {{çeviri|eo|}}
+*{{et}}: [1] {{çeviri|et|}}
+*{{fo}}: [1] {{çeviri|fo|}}
+*{{fa}}: [1] {{çeviri|fa|}}
+*{{fi}}: [1] {{çeviri|fi|kirjoitus}}, [2] {{çeviri|fi|aakkosto}}, [6] {{çeviri|fi|kirjasin}}, [7] {{çeviri|fi|kohtalo}}
+*{{fr}}: [1] {{çeviri|fr|}}
+*{{fy}}: [1] {{çeviri|fy|}}
+*{{cy}}: [1] {{çeviri|cy|}}
+*{{gl}}: [1] {{çeviri|gl|}}
+*{{gn}}: [1] {{çeviri|gn|}}
+*{{gu}}: [1] {{çeviri|gu|}}
+*{{ka}}: [1] {{çeviri|ka|}}
+*{{ha}}: [1] {{çeviri|ha|}}
+*{{hr}}: [1] {{çeviri|hr|}}
+*{{hi}}: [1] {{çeviri|hi|}}
+*{{nl}}: [1] {{çeviri|nl|}}
+*{{io}}: [1] {{çeviri|io|}}
+*{{en}}: [1] {{çeviri|en|writing}}, {{çeviri|en|script}}, {{çeviri|en|orthography}}, [6] {{çeviri|en|type}}
+*{{ga}}: [1] {{çeviri|ga|}}
+*{{gd}}: [1] {{çeviri|gd|}}
+{{Orta}}
+*{{es}}: [1] {{çeviri|es|}}
+*{{sv}}: [1] {{çeviri|sv|}}
+*{{gsw}}: [1] {{çeviri|de|}}
+*{{it}}: [1] {{çeviri|it|}}
+*{{is}}: [1] {{çeviri|is|}}
+*{{ja}}: [1] {{çeviri|ja|}}
+*{{ca}}: [1] {{çeviri|ca|}}
+*{{qu}}: [1] {{çeviri|qu|}}
+*{{kw}}: [1] {{çeviri|kw|}}
+*{{ko}}: [1] {{çeviri|ko|}}
+*{{ku}}: [1] {{çeviri|ku|}}
+*{{la}}: [1] {{çeviri|la|}}
+*{{pl}}: [1] {{çeviri|pl|}}
+*{{lv}}: [1] {{çeviri|lv|}}
+*{{lt}}: [1] {{çeviri|lt|}}
+*{{hu}}: [1] {{çeviri|hu|}}
+*{{mg}}: [1] {{çeviri|mg|}}
+*{{mr}}: [1] {{çeviri|mr|}}
+*{{mo}}: [1] {{çeviri|mo|}}
+*{{roa}}: [1] {{çeviri|roa|}}
+*{{no}}: [1] {{çeviri|no|}}
+*{{pa}}: [1] {{çeviri|pa|}}
+*{{pt}}: [1] {{çeviri|pt|}}
+*{{ro}}: [1] {{çeviri|ro|}}
+*{{ru}}: [1] {{çeviri|ru|}}
+*{{sa}}: [1] {{çeviri|sa|}}
+*{{sr}}: [1] {{çeviri|sr|}}
+*{{sk}}: [1] {{çeviri|sk|}}
+*{{sl}}: [1] {{çeviri|sl|}}
+*{{so}}: [1] {{çeviri|so|}}
+*{{su}}: [1] {{çeviri|su|}}
+*{{sn}}: [1] {{çeviri|sn|}}
+*{{uk}}: [1] {{çeviri|uk|}}
+*{{vec}}: [1] {{çeviri|vec|}}
+*{{yo}}: [1] {{çeviri|yo|}}
+*{{el}}: [1] {{çeviri|el|}}
+{{Alt}}
+
+
+
+
+
+=={{Dil|Azerice}}==
+==={{Söztürü|Ad|Azerice}}===
+{{Anlamlar}}
+:[1] [[hat]]
+
+
+
+
+
+=={{Dil|Çağatayca}}==
+==={{Söztürü|Ad|Çağatayca}}===
+{{Anlamlar}}
+:[1] [[sebze]] ve nebatatdan hali [[deşt]], yazlık yer
+
+{{Kaynaklar}}
+*{{KÚNOS, Dr IGNAZ-ŞSEÇOS-1902}}
+
+
+
+[[az:yazı]]
+[[en:yazı]]
+[[io:yazı]]
+
