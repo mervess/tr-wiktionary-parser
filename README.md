@@ -2,7 +2,7 @@
 
 TR-wiktionary-parser is a library created based on [JWKTL] (https://dkpro.github.io/dkpro-jwktl/) to parse [Turkish wiktionary] (https://tr.wiktionary.org/wiki/Ana_Sayfa) data.
 
-TR-wiktionary-parser can parse 4 different wiktionaries at total including 3 languages that JWKTL parses (German, English, Russian) + Turkish.
+TR-wiktionary-parser can parse 4 different wiktionaries total including 3 languages that JWKTL parses (German, English, Russian) + Turkish.
 
 ## Dependencies
 
@@ -25,4 +25,4 @@ These are the steps you need to follow to set up the library:
   You need to call its method as in DataParser.parseData(*filePath*, *dbPath*, *langKey*).
   It is suggested to use different database folders for wiktionaries in different languages.
 
-* After the database is ready, you are ready go. There are examples in class *test/DataAccessorTest.java* showing how to get a specified data from the database.
+* After the database is ready, you are ready to go. There are examples in class *test/DataAccessorTest.java* showing how to get a specified data from the database.
