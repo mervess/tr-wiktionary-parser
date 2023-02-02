@@ -26,3 +26,7 @@ These are the steps you need to follow to set up the library:
   It is suggested to use different database folders for wiktionaries in different languages.
 
 * After the database is ready, you are ready to go. There are examples in class *test/DataAccessorTest.java* showing how to get a specified data from the database.
+
+---
+
+🌱 Project's _Social Preview_ picture is painted by DALL·E
